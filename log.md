@@ -1,30 +1,9 @@
-# 100 Days Of Code - Log
+### Day 1: May 26, Tuesday
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: I completed the Basic HTML and HTML5 section of the Responsive Web Design Certification on FreeCodeCamp. I also went throught the first 2 JavaScript Challenges in Exercism.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** The HTML was a good review of concepts that I have learned in the past. I joined the JavaScript Mentor Mode in Exercism, and my submitted answers have to be reviewed by a mentor before moving onto the next challenge. The first two challenges were simple, but I'm looking forward to getting harder challenges as the days go on.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Exercism Solution | hello-world](https://github.com/ZachHoskins/Exercism-Solutions/blob/master/hello-world)
+2. [Exercism Solution | two-fer](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/two-fer)
