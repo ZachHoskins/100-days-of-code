@@ -17,3 +17,9 @@
 **Link(s) to work**
 1. [Exercism Solution | resistor-color](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/resistor-color)
 2. [Exercism Solution | resistor-color-duo](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/resistor-color-duo)
+
+### Day 2: May 28, Thursday
+
+**Today's Progress**: I went through 50% of Applied Visual Design on FreeCodeCamp.
+
+**Thoughts**: I learned about different ways to position content using CSS, and it is helping me see how people use these methods to create CSS art and animations. I'm excited to continue learning more about CSS stylings and what I can do with them.
