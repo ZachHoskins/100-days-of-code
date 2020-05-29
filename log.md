@@ -18,7 +18,7 @@
 1. [Exercism Solution | resistor-color](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/resistor-color)
 2. [Exercism Solution | resistor-color-duo](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/resistor-color-duo)
 
-### Day 2: May 28, Thursday
+### Day 3: May 28, Thursday
 
 **Today's Progress**: I went through 50% of Applied Visual Design on FreeCodeCamp.
 
