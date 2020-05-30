@@ -29,3 +29,13 @@
 **Today's Progress**: I finished Applied Visual Design on FreeCodeCamp. I got stuck on the next coding challenge on Exercism.
 
 **Thoughts**: On FreeCodeCamp, I learned about using @keyframes to create animations in CSS. I am excited to start making animations, and may try to create an animated loading screen tomorrow. On Exercism I almost completed the challenge, but the testing suite keeps failing as I keep calculating the wrong UTC date. Taking a break from this challenge for a bit. I'll come back to it tomorrow and see if I can't figure it out then.
+
+### Day 5: May 30, Saturday
+
+**Today's Progress**: Figured out what I was doing wrong on the Gigasecond Exercism challenge. Also went through a couple lessons on FreeCodeCamp.
+
+**Thoughts**: I was using the setSeconds() function in the Gigasecond challenge, and the time that I was calculating was an hour off. I needed to use the setUTCSeconds() function so that the time was in the same format and calculated the time correctly.
+
+**Link(s) to work**
+1. [Exercism Solution | gigasecond](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/gigasecond)
+2. [Tweet](https://twitter.com/ZachHoskins27/status/1266733010654806018)
