@@ -23,3 +23,9 @@
 **Today's Progress**: I went through 50% of Applied Visual Design on FreeCodeCamp.
 
 **Thoughts**: I learned about different ways to position content using CSS, and it is helping me see how people use these methods to create CSS art and animations. I'm excited to continue learning more about CSS stylings and what I can do with them.
+
+### Day 4: May 29, Friday
+
+**Today's Progress**: I finished Applied Visual Design on FreeCodeCamp. I got stuck on the next coding challenge on Exercism.
+
+**Thoughts**: On FreeCodeCamp, I learned about using @keyframes to create animations in CSS. I am excited to start making animations, and may try to create an animated loading screen tomorrow. On Exercism I almost completed the challenge, but the testing suite keeps failing as I keep calculating the wrong UTC date. Taking a break from this challenge for a bit. I'll come back to it tomorrow and see if I can't figure it out then.
