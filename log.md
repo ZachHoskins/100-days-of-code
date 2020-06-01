@@ -39,3 +39,9 @@
 **Link(s) to work**
 1. [Exercism Solution | gigasecond](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/gigasecond)
 2. [Tweet](https://twitter.com/ZachHoskins27/status/1266733010654806018)
+
+### Day 6: May 31, Sunday
+
+**Today's Progress**: Just went through the rest of Applied Accessibilty in freeCodeCamp today.
+
+**Thoughts**: I learned more about different ways I can make frontends more accessible. This includes using specific html tags for screen readers, using a good amount of contrast when selecting colors, and designing the flow of content intentionally so that it makes sense if someone cannot look at the screen to see the visual layout of elements.
