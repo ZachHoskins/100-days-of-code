@@ -46,6 +46,9 @@
 
 **Thoughts**: I learned more about different ways I can make frontends more accessible. This includes using specific html tags for screen readers, using a good amount of contrast when selecting colors, and designing the flow of content intentionally so that it makes sense if someone cannot look at the screen to see the visual layout of elements.
 
+**Link(s) to work**
+1. [Exercism Solution | leap](https://github.com/ZachHoskins/Exercism-Solutions/tree/master/leap)
+
 ### Day 7: June 1, Monday
 
 **Today's Progress**: I learned about flexbox on freeCodeCamp today. 
