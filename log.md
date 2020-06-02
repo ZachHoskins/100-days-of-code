@@ -45,3 +45,9 @@
 **Today's Progress**: Just went through the rest of Applied Accessibilty in freeCodeCamp today.
 
 **Thoughts**: I learned more about different ways I can make frontends more accessible. This includes using specific html tags for screen readers, using a good amount of contrast when selecting colors, and designing the flow of content intentionally so that it makes sense if someone cannot look at the screen to see the visual layout of elements.
+
+### Day 7: June 1, Monday
+
+**Today's Progress**: I learned about flexbox on freeCodeCamp today. 
+
+**Thoughts**: I really enjoy using flexbox. It seems to make displaying content very straightforward, and helps ensure content will look good on every device. I'm excited to go through the CSS Grid tomorrow, and get into Reponsive Projects later on in the week.
