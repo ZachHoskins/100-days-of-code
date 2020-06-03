@@ -54,3 +54,9 @@
 **Today's Progress**: I learned about flexbox on freeCodeCamp today. 
 
 **Thoughts**: I really enjoy using flexbox. It seems to make displaying content very straightforward, and helps ensure content will look good on every device. I'm excited to go through the CSS Grid tomorrow, and get into Reponsive Projects later on in the week.
+
+### Day 8: June 2, Tuesday
+
+**Today's Progress**: I learned about CSS Grid on freeCodeCamp. I also started the Tribute Page project on freeCodeCamp, and I'm making my tribute page on Dietrich Bonhoeffer.
+
+**Thoughts**: I really enjoyed CSS Grid, and I am definitely going to start using CSS Grid and flexbox more in projects that I do. I also started making a tribute page for Dietrich Bonhoeffer, and I look forward to finishing that up tomorrow. I will link to the finished tribute page once it is live on CodePen.
