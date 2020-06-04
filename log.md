@@ -60,3 +60,12 @@
 **Today's Progress**: I learned about CSS Grid on freeCodeCamp. I also started the Tribute Page project on freeCodeCamp, and I'm making my tribute page on Dietrich Bonhoeffer.
 
 **Thoughts**: I really enjoyed CSS Grid, and I am definitely going to start using CSS Grid and flexbox more in projects that I do. I also started making a tribute page for Dietrich Bonhoeffer, and I look forward to finishing that up tomorrow. I will link to the finished tribute page once it is live on CodePen.
+
+### Day 9: June 3, Wednesday
+
+**Today's Progress**: Today I finished my Dietrich Bonhoeffer Tribute Page, and published it on codepen.
+
+**Thoughts**: I think this is a very simple example using HTML and CSS, but I'm glad that I was able to combine the things that I've learned over this past week to make a real project. I definitely think there's more that could be done with it to make it look nicer, and function better. However, for now, it served its purpose.
+
+**Link to work**
+1. [Tribute Page | CodePen](https://codepen.io/zachhoskins/pen/abdbgxj)
