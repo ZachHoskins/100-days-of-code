@@ -69,3 +69,12 @@
 
 **Link to work**
 1. [Tribute Page | CodePen](https://codepen.io/zachhoskins/pen/abdbgxj)
+
+### Day 10: June 4, Thursday
+
+**Today's Progress**: Today I finished up the survey form project on freeCodeCamp.
+
+**Thoughts**: I am definitely happier with how this one turned out compared to the last project. I practiced making differnet form fields and making sure multiple choice answers were grouped together. This survey is a work from home survey to get a better understanding of how Covid-19 has impacted working from home for employees.
+
+**Link to work**
+1. [Survey Form | CodePen](https://codepen.io/zachhoskins/full/bGENMNe)
