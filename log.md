@@ -78,3 +78,9 @@
 
 **Link to work**
 1. [Survey Form | CodePen](https://codepen.io/zachhoskins/full/bGENMNe)
+
+### Day 11: June 5, Friday
+
+**Today's Progress**: Today I worked on the product landing page project on freeCodeCamp.
+
+**Thoughts**: I am making the product landing page about a ergonomic split mechanical keyboard. I have the main layout of the site setup, and I need to add more content, and finish the styling. 
