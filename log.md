@@ -84,3 +84,9 @@
 **Today's Progress**: Today I worked on the product landing page project on freeCodeCamp.
 
 **Thoughts**: I am making the product landing page about a ergonomic split mechanical keyboard. I have the main layout of the site setup, and I need to add more content, and finish the styling. 
+
+### Day 12: June 6, Saturday
+
+**Today's Progress**: I continued working on the product landing page from freeCodeCamp.
+
+**Thoughts**: I am enjoying making this landing page, and it is helping me with my understanding of CSS. It is forcing me to go through all of the CSS rules to get the page to render the way I want it to look. I decided to use the Ultimate Hacking Keyboard as my prodcut for this project. 
