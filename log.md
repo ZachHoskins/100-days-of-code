@@ -90,3 +90,9 @@
 **Today's Progress**: I continued working on the product landing page from freeCodeCamp.
 
 **Thoughts**: I am enjoying making this landing page, and it is helping me with my understanding of CSS. It is forcing me to go through all of the CSS rules to get the page to render the way I want it to look. I decided to use the Ultimate Hacking Keyboard as my prodcut for this project. 
+
+### Day 13: June 7, Sunday
+
+**Today's Progress**: I continued working on the product landing page from freeCodeCamp.
+
+**Thoughts**: I am learning a lot from this landing page project. I did not anticipate it taking this long, but it's true that you learn much more by actually building a real project versus just reading about concepts. I feel that I am learning much more in these past couple days that I have the entire time I've been learning about HTML, CSS, and JavaScript.
