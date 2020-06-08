@@ -96,3 +96,12 @@
 **Today's Progress**: I continued working on the product landing page from freeCodeCamp.
 
 **Thoughts**: I am learning a lot from this landing page project. I did not anticipate it taking this long, but it's true that you learn much more by actually building a real project versus just reading about concepts. I feel that I am learning much more in these past couple days that I have the entire time I've been learning about HTML, CSS, and JavaScript.
+
+### Day 14: June 8, Monday
+
+**Today's Progress**: Today I finished the Product Landing Page project on freeCodeCamp. 
+
+**Thoughts**: There was a lot that I learned about CSS though doing this project. This landing page was completely in HTML and CSS, and I got to use flexbox as well to help style things. I also learned how to make animations/transitions smoothly go back to the original state so that animations on buttons or links doesn't look choppy. I am happy with the way it turned out, and I look forward to continue making projects as I learned so much in this process.
+
+**Link to Work**
+1. [Product Landing Page | CodePen](https://codepen.io/zachhoskins/full/NWxGwWL)
