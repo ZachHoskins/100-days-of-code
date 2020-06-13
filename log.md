@@ -124,3 +124,19 @@
 **Today's Progress**: Today I worked more on the Technical Documentation project on freeCodeCamp.
 
 **Thoughts**: I used the content from css-tricks.com to fill out the content on my Technical Documentation project. I am focused more on the code and making sure I am desiging a good front-end, and so I figured I would just copy the content from css-tricks to save time in creating all the content. Now I just need to finish the CSS to format the page.
+
+### Day 17: June 11, Thursday
+
+**Today's Progress**: Today I finished the Technical Documentation Page project on freeCodeCamp.
+
+**Thoughts**: Overall, I am very pleased with how this project went, and I plan to use this technical documentation page for a quick reference when I need help with flexbox. I learned more about CSS in this project, and I look forward to continuing to develop more projects that I can add to my portfolio.
+
+**Link to Work**
+
+1. [Technical Documentation Page | CodePen](https://codepen.io/zachhoskins/full/ZEQQOWN)
+
+### Day 18: June 12, Friday
+
+**Today's Progress**: Today I worked some on my portfolio site for the next freeCodeCamp project.
+
+**Thoughts**: I don't feel like I accomplished a ton today, but I plan to recode my portfolio site from scratch, and I now have a couple more projects that I can add to it.
