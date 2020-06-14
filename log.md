@@ -140,3 +140,13 @@
 **Today's Progress**: Today I worked some on my portfolio site for the next freeCodeCamp project.
 
 **Thoughts**: I don't feel like I accomplished a ton today, but I plan to recode my portfolio site from scratch, and I now have a couple more projects that I can add to it.
+
+### Day 19: June 13, Saturday
+
+**Today's Progress**: Today I finished my portfolio site for my final freeCodeCamp project in the Responsive Web Design Certification.
+
+**Thoughts**: I am very happy with how the portfolio site looks, and I learned a lot in the process. I now have a portfolio site that has all of my project I've been working on during this certification, and I have a place to add all of the projects that I will be working on in the coming certifications I get.
+
+**Link to Work**
+
+1. [Portfolio Website](https://zachhoskins.github.io)
