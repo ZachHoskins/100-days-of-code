@@ -153,6 +153,12 @@
 
 ### Day 20: June 14, Sunday
 
-**Today's Progress**: Today I started the JavaScript Algorithms and Data Structures Certification on freeCodeCamp, and I got 50% throught the Basic JavaScript section. 
+**Today's Progress**: Today I started the JavaScript Algorithms and Data Structures Certification on freeCodeCamp, and I got 50% throught the Basic JavaScript section.
 
-**Thoughts**: It is mostly just review so far, but I have come across a couple things like .shift() and .unshift() that I have not used in the past with JavaScript. I look forward to continuing to learn more about JavaScript in the coming days, and start working on projects using JS. 
+**Thoughts**: It is mostly just review so far, but I have come across a couple things like .shift() and .unshift() that I have not used in the past with JavaScript. I look forward to continuing to learn more about JavaScript in the coming days, and start working on projects using JS.
+
+### Day 21: June 15, Monday
+
+**Today's Progress**: Today I got stuck with 10 exercises left in the Basic Javascript section of JavaScript Algorithms and Data Structures Certification on freeCodeCamp.
+
+**Thoughts**: Today was a very good review, and there were some challenging exercises that made me think for a little while to complete. The Recursion exercises specifically took me a while. I decided to take a break, and come back to the rest of the exercises tomorrow to give my brain time to rest and come with fresh ideas.
